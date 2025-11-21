@@ -46,7 +46,7 @@
 
 ## 🐍 Snake Animation
 <p align="center">
-<img src="https://raw.githubusercontent.com/fiko-nanda/fiko-nanda/output/github-snake.svg" />
+<img src="https://raw.githubusercontent.com/fiko-nanda/fiko-nanda/output/snake.svg" />
 </p>
 
 ---
