@@ -2,23 +2,24 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # generate setiap 12 jam
+    - cron: "0 */12 * * *" 
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repo
+      - name: Checkout Repo
         uses: actions/checkout@v3
 
-      - name: Generate svg
-        uses: ErikKalkoken/github-contribution-snake-action@v2
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: fiko-nanda
-          output_file: dist/github-snake.svg
+          outputs: dist/snake.svg
 
-      - name: Deploy to output branch
+      - name: Deploy Snake File
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
