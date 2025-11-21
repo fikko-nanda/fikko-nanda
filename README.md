@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Fiko%20Nanda&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=7315f7&height=120&text=Fiko%20Nanda%20|%20Developer&fontColor=ffffff&fontSize=35&animation=blink&stroke=14&strokeColor=8A2BE2" style="border-radius:18px;box-shadow:0 0 25px #8A2BE2;">
 </p>
+
 
 <h2 align="center">👋 Halo! Saya <b>Fiko Nanda</b></h2>
 <p align="center">Seorang developer yang sedang belajar, mencoba, dan bereksperimen dengan berbagai teknologi.</p>
@@ -24,7 +25,9 @@
 ### 📚 Framework & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,flutter,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=nodejs,flutter,codeigniter,github,vscode" />
 </p>
+
 
 ### 🤖 Bot & Automation
 - WhatsApp bot (Baileys)
@@ -46,16 +49,19 @@ Saya upload proyek kecil sekalipun, supaya bisa jadi dokumentasi proses belajar 
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fiko-nanda&show_icons=true&theme=tokyonight" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiko-nanda&layout=compact&theme=tokyonight" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=fiko-nanda&show_icons=true&theme=tokyonight&border_radius=15&hide_border=true" height="160" style="box-shadow:0 0 22px #7f5cff;border-radius:12px;">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiko-nanda&layout=compact&theme=tokyonight&border_radius=15&hide_border=true" height="160" style="box-shadow:0 0 22px #7f5cff;border-radius:12px;">
 </p>
+
 
 ---
 
 ## 🔥 Snake Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fiko-nanda/fiko-nanda/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/fiko-nanda/fiko-nanda/output/github-contribution-grid-snake-dark.svg" style="border-radius:10px;box-shadow:0 0 20px #8A2BE2;">
 </p>
+
 
 ---
 
