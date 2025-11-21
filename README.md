@@ -13,7 +13,7 @@
 
 ---
 
-## 🌈 Neon Bio — About Me
+## 🌈  About Me
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Learning%20Developer-ff00ff?style=for-the-badge&logo=github&logoColor=white" style="box-shadow:0 0 12px #ff00ff;">
   <img src="https://img.shields.io/badge/Focus-Bot%20%26%20Mobile%20Development-00eaff?style=for-the-badge" style="box-shadow:0 0 12px #00eaff;">
@@ -27,7 +27,7 @@
 
 ---
 
-## 💡 Skill Grid (Neon Edition)
+## 💡 Skill Grid
 <p align="center" style="margin-top:20px;">
   <img src="https://skillicons.dev/icons?i=javascript,php,dart,cpp,html,css,github,vscode,nodejs,flutter" style="filter: drop-shadow(0px 0px 10px #00eaff);">
   <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" height="50" style="filter: drop-shadow(0 0 10px #ff0066); margin-left:10px;">
@@ -44,7 +44,7 @@
 
 ---
 
-## 🐍 Snake Animation (Neon Glow)
+## 🐍 Snake Animation
 <p align="center">
   <img src="https://raw.githubusercontent.com/fiko-nanda/fiko-nanda/output/github-contribution-grid-snake-dark.svg" style="border-radius:10px;box-shadow:0 0 35px #ff00f2;">
 </p>
