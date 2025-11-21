@@ -24,7 +24,6 @@
 
 ### 📚 Framework & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,flutter,github,vscode" />
   <img src="https://skillicons.dev/icons?i=nodejs,flutter,codeigniter,github,vscode" />
 </p>
 
