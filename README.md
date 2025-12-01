@@ -35,21 +35,6 @@
 
 ---
 
-## 📊 GitHub Stats (Neon Glow)
-<p align="center">
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=fiko-nanda&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false" height="170" style="box-shadow:0 0 25px #ff00ee; border-radius:12px;">
-  
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=fiko-nanda&layout=compact&theme=tokyonight&border_radius=12&hide_border=false" height="170" style="box-shadow:0 0 25px #00eaff; border-radius:12px;">
-</p>
-
----
-
-## 🐍 Snake Animation
-<p align="center">
-<img src="https://raw.githubusercontent.com/fiko-nanda/fiko-nanda/output/snake.svg" />
-</p>
-
----
 
 ## 🔗 Socials
 <p align="center">
