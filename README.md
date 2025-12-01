@@ -1,6 +1,6 @@
 <!-- HEADER NEON -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:ff00dd,50:7f00ff,100:00eaff&text=Fiko%20Nanda&fontSize=45&fontColor=ffffff&fontAlignY=35&animation=twinkling" style="box-shadow:0 0 35px #ff00ee;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:ff00dd,50:7f00ff,100:00eaff&text=CloverMaxfontSize=45&fontColor=ffffff&fontAlignY=35&animation=twinkling" style="box-shadow:0 0 35px #ff00ee;">
 </p>
 
 <h2 align="center" style="font-weight:bold;">
